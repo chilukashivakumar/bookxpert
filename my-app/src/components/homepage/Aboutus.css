@@ -1,0 +1,100 @@
+.AboutUscontainer{
+    margin-top: 5%;
+  }
+  .Blogpage .AboutUscontainer{
+    margin-top: 0;
+   
+  }
+  .Blogpage .AboutUscontainer .section-bg-overview{
+    margin-bottom: 5%;
+  }
+.AboutUscontainer img{
+    width: 100%;
+    margin-bottom: 40px;
+}
+.section-heading{
+    color: #05a0e8;
+    margin-bottom: 25px;
+    position: relative;
+}
+.about {
+    margin-bottom: 40px;
+}
+.section-heading:before {
+    content: ' ';
+    background: linear-gradient(to right,#05a0e8,#05529a,#000000);
+    width: 100px;
+    height: 2px;
+    position: absolute;
+    bottom: -10px;
+}
+.about p {
+    color: #022d54;
+    font-size: 16px;
+}
+.section-bg-overview {
+    background: url(https://bookxpert.co.in/assets/img/h2.jpg);
+    text-align: center;
+    padding-top: 50px;
+    background-size: cover;
+    padding-bottom: 50px;
+    background-repeat: no-repeat;
+}
+.why-us .section-content {
+    padding: 74px;
+    background: #05529aeb;
+    border-radius: 23px;
+    color: #fff;
+    text-align: left;
+}
+.heading{
+    margin-bottom: 20px;
+    position: relative;
+}
+.heading:before {
+    content: ' ';
+    background: linear-gradient(to right,#05a0e8,#05529a,#000000);
+    width: 100px;
+    height: 2px;
+    position: absolute;
+    bottom: -10px;
+}
+.section-content h4{
+    color: #84d8ff;
+}
+.section-content ul li {
+    font-size: 14px;
+    color: #fff;
+    letter-spacing: 1px;
+}
+.mar-40{
+    margin-bottom: 70px;
+}
+.Services .section-heading{
+    color: #444444;
+}
+  .icon-box h3 {
+    margin-left: 70px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+  .icon-box p {
+    margin-left: 70px;
+    line-height: 24px;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+.icon-box img{
+    width: 20px;
+}
+.icon-box div{
+    float: left;
+}
+.icon-box{
+    margin-top: 40px;
+}
+.mar-top{
+    margin-top: 50px;
+}

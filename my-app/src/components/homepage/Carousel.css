@@ -1,0 +1,39 @@
+.carousel-caption {
+    position: absolute;
+    right: 7%;
+    top: 7%;
+    left: auto;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #060606;
+    text-align: left;
+    max-width: 500px;
+    transform-origin: 50% 50%;
+    z-index: 1;
+    transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+}
+.carousel-caption h1 {
+    color: #0b589e;
+    font-size: 23px;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+.carousel-caption h2 {
+    color: #022d54;
+    margin-bottom: 7px;
+    font-size: 20px;
+    font-weight: 700;
+   
+}
+.carousel-caption h4{
+    font-size: 18px;
+}
+.appointment-btn{
+    
+   margin-top: 20px;
+    background: #045099;
+    margin-left: 0px;
+    border-radius: 10px;
+
+}

@@ -1,0 +1,109 @@
+ .footer-top {
+    padding: 60px 0 0px 0;
+    background: #fff;
+    box-shadow: 0px 2px 15px rgba(25, 119, 204, 0.1);
+}
+.footer-contactlist{
+    margin-bottom: 30px;
+}
+.footer-contactlist h2{
+    font-size: 1.75rem;
+    color: #444444;
+}
+.footer-contactlist p {
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 0;
+    font-family: "Raleway", sans-serif;
+    color: #777777;
+}
+.footer-linkslist{
+    margin-bottom: 30px;
+}
+.footer-linkslist h2 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #444444;
+    position: relative;
+    padding-bottom: 12px;
+}
+.footer-linkslist ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.footer-linkslist  ul li:first-child {
+    padding-top: 0;
+}
+.address p:nth-child(1){
+    width: 250px;
+    display: block;
+    word-wrap: normal;
+}
+.footer-linkslistul li {
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+}
+.footer-linkslist ul li {
+    font-size: 14px;
+    color: #fff;
+    letter-spacing: 1px;
+   
+}
+.footer-linkslist ul li a {
+    color: #777777;
+    transition: 0.3s;
+    display: inline-block;
+    line-height: 2;
+    padding: 0px;
+}
+.footer-linkslist ul li a::before{
+    content: '';
+    background-image: url(../images/left-arrow.png);
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: 11px;
+    transform: rotate(180deg);
+    margin-right: 7px;
+}
+
+.contactlist{
+    margin-bottom: 30px;
+}
+.contactlist h3{
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 0;
+    font-family: "Raleway", sans-serif;
+    color: #777777;
+}
+.footericons{
+    background:#f1f7fd;
+    padding: 20px;
+}
+.footericons a {
+    font-size: 18px;
+    display: inline-block;
+    background: #1977cc;
+    color: #fff;
+    line-height: 1;
+    padding: 8px 0;
+    margin-right: 4px;
+    border-radius: 50%;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+    transition: 0.3s;
+}
+.footericons a img{
+    width: 18px;
+}
+.footericons p{
+margin: 10px 0px;
+}
+.float{
+    float: right;
+}

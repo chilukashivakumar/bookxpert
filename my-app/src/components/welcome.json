@@ -1,0 +1,24 @@
+[
+ 
+    {
+      "id": 1,
+      "name": "Vigo",
+      "picture": "https://bookxpert.co.in/assets/img/slide1.jpg",
+      "content": "We're here to help MSMEs overcome Accounting and Enforcement Issues."
+    },
+    {
+      "id": 2,
+      "name": "Mercedes",
+      "picture": "https://bookxpert.co.in/assets/img/slide2.jpg",
+      "content": "We're here to help MSMEs overcome Accounting and Enforcement Issues."
+    },
+    {
+        "id": 3,
+        "name": "Lexus",
+        "picture": "https://bookxpert.co.in/assets/img/slide3.jpg",
+        "content": "We're here to help MSMEs overcome Accounting and Enforcement Issues."
+      }
+    
+]
+
+
